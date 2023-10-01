@@ -1,1 +1,1 @@
-recipes website that demonstrates html and css skills
+This is a recipes website.
